@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Live"
-    url: /live/
+    url: /_pages/live
 
   - title: "Media"
     url: /
