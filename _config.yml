@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Hillevi Uhrberg - singer and bass player"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Hillevi Uhrberg"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
