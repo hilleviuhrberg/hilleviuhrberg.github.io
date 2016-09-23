@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Live"
-    url: https://hilleviuhrberg.github.io/live/
+    url: /live/
 
   - title: "Media"
     url: /
