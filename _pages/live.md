@@ -1,6 +1,7 @@
---
+---
 layout:single
---
+permalink: /live/
+---
 
 ## 20160930 Jazz Fridays at Park Inn Uppsala 
 
