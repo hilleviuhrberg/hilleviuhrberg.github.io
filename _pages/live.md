@@ -15,6 +15,6 @@ Non-public arrangement.
 
 ## 20161217 Tribute to Billie Holiday GA Kyrkan Helsinborg
 
-Our own arrangements of the songs sung by Lady Day.
+Our own arrangements of the songs of Lady Day.
 
 Concert at 19.00
