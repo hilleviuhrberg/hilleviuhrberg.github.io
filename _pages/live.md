@@ -10,7 +10,8 @@ with Hans Loelv piano, Håkan Jansson drums and Niklas Uhrberg sax
 Music from 18.00 to 20.00
 
 
-## 20161109 Private venue, Malmö
+## 20161109 Øredev, Malmö
+Non-public arrangement.
 
 ## 20161217 Tribute to Billie Holiday GA Kyrkan Helsinborg
 
