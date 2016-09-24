@@ -3,8 +3,8 @@ main:
   - title: "Live"
     url: /_pages/live
 
-  - title: "Media"
-    url: /_pages/media
-
   - title: "Blog"
   url: /_pages/blog
+
+   - title: "Media"
+    url: /_pages/media
