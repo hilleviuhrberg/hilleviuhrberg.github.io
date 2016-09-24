@@ -4,4 +4,7 @@ main:
     url: /_pages/live
 
   - title: "Media"
-    url: /
+    url: /_pages/media
+
+- title: "Blog"
+url: /_pages/blog
