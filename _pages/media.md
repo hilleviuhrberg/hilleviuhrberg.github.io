@@ -8,5 +8,5 @@ permalink: /media/
 
 
 
-with John Venkiah piano, Krostoffer Rostedt drums and Niklas Uhrberg sax
+with John Venkiah piano, Kristoffer Rostedt drums and Niklas Uhrberg sax
 
