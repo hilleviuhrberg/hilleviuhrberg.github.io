@@ -14,3 +14,6 @@ with John Venkiah piano, Kristoffer Rostedt drums and Niklas Uhrberg sax
 ## I've Got You Under My Skin
 [![I've Got You Under My Skin](http://img.youtube.com/vi/ViZsfDUgHsc/0.jpg)](https://youtu.be/ViZsfDUgHsc "I've Got You Under My Skin") 
 
+## Come Rain Or Come Shine
+[![Come Rain Or Come Shine](http://img.youtube.com/vi/07MYVEop3Mo/0.jpg)](https://youtu.be/07MYVEop3Mo "Come Rain Or Come Shine") 
+
