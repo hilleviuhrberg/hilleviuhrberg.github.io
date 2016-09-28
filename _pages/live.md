@@ -19,3 +19,4 @@ Our own arrangements of the songs of Lady Day.
 
 ![Holiday poster](/images/holiday-poster-medium.jpg "I'll Be Seeing You")
 
+Buy your ticket: Swish to 0707474616 and you will receive the tickets by snailmail.  
