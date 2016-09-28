@@ -17,4 +17,5 @@ Non-public arrangement.
 
 Our own arrangements of the songs of Lady Day.
 
-Concert at 19.00
+![Holiday poster](/images/holiday-poster-medium.jpg "I'll Be Seeing You")
+
