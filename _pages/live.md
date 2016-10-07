@@ -11,7 +11,7 @@ Music from 18.00 to 20.00
 
 
 ## 20161109 Øredev, Malmö
-Non-public arrangement.
+Non-public event. With Søren Møller piano, Kristoffer Rostedt drums and Niklas Uhrberg sax.
 
 ## 20161217 Tribute to Billie Holiday GA Kyrkan Helsingborg
 
