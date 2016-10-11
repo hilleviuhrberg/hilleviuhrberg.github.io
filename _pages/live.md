@@ -13,9 +13,10 @@ Music from 18.00 to 20.00
 ## 20161109 Øredev, Malmö
 Non-public event. With Søren Møller piano, Kristoffer Rostedt drums and Niklas Uhrberg sax.
 
+## 20161120 Bokens dag, Helsingborg
+
 ## 20161217 Tribute to Billie Holiday GA Kyrkan Helsingborg
 
-Our own arrangements of the songs of Lady Day.
 
 ![Holiday poster](/images/holiday-poster-medium.jpg "I'll Be Seeing You")
 
