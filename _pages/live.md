@@ -23,3 +23,12 @@ With John Venkiah piano and Niklas Uhrberg sax.
 ![Holiday poster](/images/holiday-poster-medium.jpg "I'll Be Seeing You")
 
 Buy your ticket: Swish to 0707474616 and you will receive the tickets by snailmail.  
+
+
+# Selected past dates
+
+## 20151220 Frank Sinatra 100 years
+
+![Sinatra poster](/images/poster0-saga-medium.jpg "Sinatra 100 years")
+
+
