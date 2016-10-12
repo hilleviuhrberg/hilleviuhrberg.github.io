@@ -15,6 +15,7 @@ Non-public event. With Søren Møller piano, Kristoffer Rostedt drums and Niklas
 
 ## 20161120 Bokens dag, Helsingborg
 Helsingborgs Stadsteater. Music at 12.15 and 13.45. 
+With John Venkiah Rhodes and Niklas Uhrberg sax.
 
 ## 20161217 Tribute to Billie Holiday GA Kyrkan Helsingborg
 
