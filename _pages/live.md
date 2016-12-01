@@ -8,7 +8,9 @@ permalink: /live/
 
 ![Holiday poster](/images/affisch-hillevi-medium-färg.jpg "I'll Be Seeing You")
 
-Buy your ticket: Swish to 0707474616 and you will receive the tickets by snailmail.  
+## Buy your ticket: Swish to 0707474616 and you will receive the tickets by snailmail.  
+
+
 
 
 ## 20161120 Bokens dag, Helsingborg
