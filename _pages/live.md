@@ -6,7 +6,7 @@ permalink: /live/
 ## 20161217 Tribute to Billie Holiday GA Kyrkan Helsingborg
 
 
-![Holiday poster](/images/affisch-hillevi-medium.jpg "I'll Be Seeing You")
+![Holiday poster](/images/affisch-hillevi-medium-färg.jpg "I'll Be Seeing You")
 
 Buy your ticket: Swish to 0707474616 and you will receive the tickets by snailmail.  
 
