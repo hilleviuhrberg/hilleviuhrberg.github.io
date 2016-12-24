@@ -1,10 +1,9 @@
 ---
 layout:single
-permalink: /live/
-header:Upcoming gigs
+permalink: /live
 ---
 
-# Upcoming dates
+## Upcoming dates
 
 ## 20170304 Katalin - Uppsala
 with Mattias Åström - piano <br>
