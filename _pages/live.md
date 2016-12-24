@@ -12,8 +12,6 @@ Niklas Uhrberg - sax
 
 
 
-# Selected past dates
-
 ## 20161217 Tribute to Billie Holiday GA Kyrkan Helsingborg
 
 ![Holiday poster](/images/affisch-hillevi-medium-färg.jpg "I'll Be Seeing You")
