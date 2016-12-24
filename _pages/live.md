@@ -1,6 +1,7 @@
 ---
 layout:single
 permalink: /live/
+header:Upcoming gigs
 ---
 
 # Upcoming dates
