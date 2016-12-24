@@ -3,7 +3,6 @@ layout:single
 permalink: /live
 ---
 
-## Upcoming dates
 
 ## 20170304 Katalin - Uppsala
 with Mattias Åström - piano <br>
