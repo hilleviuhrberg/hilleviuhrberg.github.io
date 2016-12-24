@@ -2,6 +2,18 @@
 layout:single
 permalink: /media/
 ---
+## Willow Weep For Me (GA Kyrkan Helsingborg dec 2016)
+[![Willow Weep For Me](http://img.youtube.com/vi/JjiIvVANUbA/3.jpg)](https://youtu.be/JjiIvVANUbA "Willow Weep For Me") 
+
+
+## Love For Sale
+[![Love For Sale](http://img.youtube.com/vi/K0wEcOOy5M8/3.jpg)](https://youtu.be/K0wEcOOy5M8 "Love For Sale") 
+
+## I Cover The Waterfront
+[![I Cover The Waterfront](http://img.youtube.com/vi/Sh2a1eZThgc/3.jpg)](https://youtu.be/Sh2a1eZThgc "I Cover The Waterfront") 
+
+
+
 
 #### Fly Me To The Moon (Tribute to Frank Sinatra in Helsingborg 201512)
 <!--with John Venkiah piano, Kristoffer Rostedt drums and Niklas Uhrberg clarinet/sax -->
