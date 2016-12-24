@@ -1,7 +1,6 @@
 ---
 layout:single
 permalink: /live
-page.title:"Upcoming dates"
 ---
 
 # Upcoming dates
@@ -13,6 +12,7 @@ Håkan Jansson - drums <br>
 Niklas Uhrberg - sax
 
 
+# Some past dates
 
 ## 20161217 Tribute to Billie Holiday GA Kyrkan Helsingborg
 
