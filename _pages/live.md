@@ -1,6 +1,7 @@
 ---
 layout:single
 permalink: /live
+title:Upcoming dates
 ---
 
 
