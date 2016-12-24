@@ -1,8 +1,9 @@
 ---
 layout:single
 permalink: /live
-title:"Upcoming dates"
+page.title:"Upcoming dates"
 ---
+
 
 
 ## 20170304 Katalin - Uppsala
