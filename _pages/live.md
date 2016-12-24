@@ -4,6 +4,7 @@ permalink: /live/
 ---
 
 # Upcoming dates
+
 ## 20170304 Katalin - Uppsala
 with Mattias Åström - piano <br>
 Saga Uhrberg - clarinet <br>
@@ -12,7 +13,7 @@ Niklas Uhrberg - sax
 
 
 
-# Selected past dates
+## Selected past dates
 
 ## 20161217 Tribute to Billie Holiday GA Kyrkan Helsingborg
 
