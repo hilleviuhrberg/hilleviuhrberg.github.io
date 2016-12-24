@@ -3,9 +3,6 @@ layout:single
 permalink: /live/
 ---
 
-# Upcoming dates
-
-
 ## 20170304 Katalin - Uppsala 
 
 with Mattias Åström piano, Håkan Jansson drums, Saga Uhrberg clarinet and Niklas Uhrberg sax
