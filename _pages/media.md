@@ -4,7 +4,7 @@ permalink: /media/
 ---
 
 #### Fly Me To The Moon (Tribute to Frank Sinatra in Helsingborg 201512)
-<font size="5"> with John Venkiah piano, Kristoffer Rostedt drums and Niklas Uhrberg clarinet/sax </font>
+<!--with John Venkiah piano, Kristoffer Rostedt drums and Niklas Uhrberg clarinet/sax -->
 
 [![Fly Me To The Moon](http://img.youtube.com/vi/zcx--mUSjOA/3.jpg)](https://youtu.be/zcx--mUSjOA "Fly Me To The Moon") 
 
