@@ -3,6 +3,15 @@ layout:single
 permalink: /live/
 ---
 
+## 20170304 Katalin - Uppsala
+with Mattias Åström - piano <br>
+Saga Uhrberg - clarinet <br>
+Håkan Jansson - drums <br>
+Niklas Uhrberg - sax
+
+
+
+
 ## 20161217 Tribute to Billie Holiday GA Kyrkan Helsingborg
 
 
