@@ -27,7 +27,7 @@ permalink: /media/
 #### Fly Me To The Moon (Tribute to Frank Sinatra in Helsingborg 201512)
 <!--with John Venkiah piano, Kristoffer Rostedt drums and Niklas Uhrberg clarinet/sax -->
 
-[![Fly Me To The Moon](http://img.youtube.com/vi/zcx--mUSjOA/3.jpg)](https://youtu.be/zcx--mUSjOA "Fly Me To The Moon") 
+[![Fly Me To The Moon](http://img.youtube.com/vi/zcx--mUSjOA/0.jpg)](https://youtu.be/zcx--mUSjOA "Fly Me To The Moon") 
 
 
 #### I've Got You Under My Skin
