@@ -5,14 +5,25 @@ permalink: /live
 
 # Upcoming dates
 
+
+## 20181222 GA Kyrkan - Helsingborg
+with John Venkiah - piano <br>
+Simon Peterson - bass <br>
+Kristoffer Rostedt dr <br>
+Saga Uhrberg - clarinet <br>
+Niklas Uhrberg - sax
+
+![American Songbook poster](/images/americansong-affisch-web.jpg "Great American Songbook")
+
+
+
+# Some past dates
+
 ## 20170304 Katalin - Uppsala
 with Mattias Åström - piano <br>
 Saga Uhrberg - clarinet <br>
 Håkan Jansson - drums <br>
 Niklas Uhrberg - sax
-
-
-# Some past dates
 
 ## 20161217 Tribute to Billie Holiday GA Kyrkan Helsingborg
 
