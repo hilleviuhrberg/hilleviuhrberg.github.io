@@ -6,16 +6,14 @@ permalink: /live
 # Upcoming dates
 
 
-## 20181222 GA Kyrkan - Helsingborg
-with John Venkiah - piano <br>
-Simon Peterson - bass <br>
-Kristoffer Rostedt dr <br>
-Saga Uhrberg - clarinet <br>
-Niklas Uhrberg - sax
+## 20181222 Great American Songbook GA Kyrkan - Helsingborg
+
 
 ![American Songbook poster](/images/americansong-affisch-web.jpg "Great American Songbook")
 
 
+Tickets on Swish - 0707474616
+(You get the ticket by mail)
 
 # Some past dates
 
